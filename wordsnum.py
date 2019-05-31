@@ -1,0 +1,21 @@
+u=int(input())
+if(u==1):
+    print("One")
+if(u==2):
+    print("Two")
+if(u==3):
+    print("Three")
+if(u==4):
+    print("Four")
+if(u==5):
+    print("Five")
+if(u==6):
+    print("Six")
+if(u==7):
+    print("Seven")
+if(u==8):
+    print("Eight")
+if(u==9):
+    print("Nine")
+if(u==10):
+    print("Ten")
