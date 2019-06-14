@@ -1,7 +1,8 @@
-e=input()
-l=['a','e','i','o','u','A','E','I','O','U']
-for i in e:
-    if(i in l):
+h=input()
+l1=['a','e','i','o','u','A','E','I','O','U']
+for i in h:
+    if(i in l1):
         print("yes")
-    else:
-        print("no")
+        break
+else:
+    print("no")
